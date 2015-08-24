@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-<plist version="1.0">
+<plist version=“1.0.2”>
 <dict>
     <key>items</key>
     <array>
@@ -12,9 +12,9 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>bundle-identifier</key>
-				<string>dzcj.cm.aniu</string>
+				<string>Business.aniu.tv</string>
 				<key>bundle-version</key>
-				<string>1.7.1</string>
+				<string>1.0.2</string>
 			</dict>
 			<key>assets</key>
 			<array>
