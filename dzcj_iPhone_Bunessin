@@ -20,7 +20,7 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>htt://file.aniu.tv:8081/ios/dzcj.ipa</string>
+					<string>http://file.aniu.tv:8081/ios/dzcj_1.0.2.ipa</string>
 					<key>display-image</key>
 					<string>http://file.aniu.tv:8081/aniu_face/20150710/aniu_face_20150710154507.png</string>
 					<key>full-size-image</key>
